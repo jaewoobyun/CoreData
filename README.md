@@ -1,6 +1,8 @@
 # CoreData
 Core Data by Tutorials
 
+![CoreData](CoreData.jpeg)
+
 
 This is my Repository for finishing the book Core Data by Tutorials (Fourth Edition iOS11 and Swift Edition) by the raywenderlich.com Tutorial Team (Aaron Douglas, Saul Mora, Matthew Morey & Pietro Rea)
 This repository is to prove that I have finished reading the book, and that I have followed all the sample tutorials included in the course.
