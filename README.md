@@ -8,12 +8,14 @@ This repository is to prove that I have finished reading the book, and that I ha
 
 
 ## Chapters
-- 01-your-first-core-data-app
-- 02-nsmanagedobject-subclasses
-- 03-the-core-data-stack
-- 04-intermediate-fetching
-- 05-nsfetchedresultscontroller
-- 06-versioning-and-migration
-- 07-unit-testing
-- 08-measuring-and-boosting-performance
-- 09-multiple-managed-object-contexts
+- [01-your-first-core-data-app] (01-your-first-core-data-app/)
+- [02-nsmanagedobject-subclasses] (02-nsmanagedobject-subclasses/)
+- [03-the-core-data-stack] (03-the-core-data-stack/)
+- [04-intermediate-fetching] (04-intermediate-fetching/)
+- [05-nsfetchedresultscontroller] (05-nsfetchedresultscontroller/)
+- [06-versioning-and-migration] (06-versioning-and-migration/)
+- [07-unit-testing] (07-unit-testing/)
+- [08-measuring-and-boosting-performance] (08-measuring-and-boosting-performance/)
+- [09-multiple-managed-object-contexts] (09-multiple-managed-object-contexts/)
+
+
